@@ -1,0 +1,9 @@
+LIST OF GITHUB COMMANDS
+git init
+git add filname
+git status
+git commit -m "comment"
+git log
+git branch
+git pull
+git clone<link>
